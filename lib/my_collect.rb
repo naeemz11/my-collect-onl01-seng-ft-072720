@@ -9,6 +9,6 @@ def my_collect(students)
    end 
    empty_array
 end
-my_collect(students) {|i|
+my_collect(students) {|i| puts"hi #{i}"} 
   
 
