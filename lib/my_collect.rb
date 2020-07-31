@@ -1,4 +1,4 @@
-
+students =  ['Tim Jones', 'Tom Smith', 'Sophie Johnson', 'Antoin Miller']
 def my_collect(students)
   empty_array= []
   counter= 0 
